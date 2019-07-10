@@ -9,7 +9,7 @@ This right now is just the start of working with the Napalm framework for my cod
 I don't really see a reason to configure routers/switches/firewalls as of yet. I'll think of something later but this proves that the Napalm framework works with my code + can be used extensively by me and other python libraries to automate networking related tasks.
 
 Release Notes:
-version 0.1 = basic program \n
+version 0.1 = basic program
 version 0.2 = fill out later 
 version 0.3 = fill out later
 version 0.4 = fill out later
