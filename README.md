@@ -8,9 +8,9 @@ Testing Napalm framework, it outputs the Juniper's running config/interface data
 This right now is just the start of working with the Napalm framework for my codes.
 
 Release Notes:
-version 0.1 = basic program
-version 0.2 = Made the output much more clean and human readable. 
-version 0.3 = Don't recall. Will fill out later.
-version 0.4 = Supported the ability to build custom folders for your particular Juniper device with the serial #s. 
-version 0.5 = faster performance
-version 0.6 = configuration commands supported, right now 1 command.
+Version 0.1 = basic outline of a program
+Version 0.2 = Made the output much more clean and human readable. 
+Version 0.3 = Don't recall. Will fill out later.
+Version 0.4 = Supported the ability to build custom folders for your particular Juniper device with the serial #s. 
+Version 0.5 = faster performance
+Version 0.6 = configuration commands supported, right now 1 command.
