@@ -1,7 +1,9 @@
 # Napalm-Testing
 # Programmed with Windows 10, Python 3.7
 
-Public_Napalm_Testing v0.5.py main source code you run. mynapalmfunctions.py is a object required to run Public_Napalm_Testing_v0.5.py. 
+Public_Napalm_Testing_v0.5.py main source code you run. mynapalmfunctions.py is a object required to run Public_Napalm_Testing_v0.5.py.
+
+BETA_Public_Napalm_Testing_v0.5.py is the BETA copy for the next version for v0.6, cannot get the syntax right for doing configuration changes as of yet.
 
 Testing Napalm framework, it outputs the Juniper's running config/interface data and outputs this to a multiple text files and then creates a folder with the serial # + date of action. Then moves all files to this folder. Next step is to include the hostname.
 
